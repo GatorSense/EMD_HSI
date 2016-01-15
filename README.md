@@ -32,12 +32,16 @@ Inputs:
 Outputs:
     EMDtot - Aggregated EMD value (Aggregation is the sum in this implementation)
 
-****************************************************************
+
+
+
 Run the Simulated 2-Dimensional Data Demo: (Simulated data experiment (c) Case 3 of varying number of endmembers from the EMD paper)
 
 To Run the EMD Algorithm, with the example simulated 2-dimensional data set run the script: DEMO_RunSimulatedData.m
 
 This script will estimate EMD_tot with SED, SAM and SID with 3,4 and 5 endmembers estimated from the ICE algorithm with random initialization 
+   
+   
    
 ****************************************************************
 ****************************************************************
@@ -62,13 +66,13 @@ DEMO Dependencies: The 2-D simulated demo uses SPICE Sparsity Promoting Iterated
 
 If you have any questions, please contact:
 
-% Author:  Alina Zare
-% University of Missouri, Electrical and Computer Engineering
-% Email Address: zarea@missouri.edu
-% Created: December 2013
-% Latest Revision: December 19, 2013
-% This product is Copyright (c) 2013 University of Missouri.
-% All rights reserved.
+Author:  Alina Zare  
+University of Missouri, Electrical and Computer Engineering  
+Email Address: zarea@missouri.edu  
+Created: December 2013  
+Latest Revision: December 19, 2013  
+This product is Copyright (c) 2013 Alina Zare  
+All rights reserved.  
 
 
 
