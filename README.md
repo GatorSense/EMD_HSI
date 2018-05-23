@@ -67,11 +67,11 @@ DEMO Dependencies: The 2-D simulated demo uses SPICE Sparsity Promoting Iterated
 If you have any questions, please contact:
 
 Author:  Alina Zare  
-University of Missouri, Electrical and Computer Engineering  
-Email Address: zarea@missouri.edu  
+University of Florida, Electrical and Computer Engineering  
+Email Address: azare@ufl.edu
 Created: December 2013  
-Latest Revision: December 19, 2013  
-This product is Copyright (c) 2013 Alina Zare  
+Latest Revision: May 23, 2018
+This product is Copyright (c) 2018 Alina Zare  
 All rights reserved.  
 
 
