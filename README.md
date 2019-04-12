@@ -5,6 +5,8 @@ Matlab implementation
 
 ****************************************************************
 ****************************************************************
+NOTE: If you use this code, cite it: Alina Zare. (2019, April 12). GatorSense/EMD_HSI: Initial Release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.2638300  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2638300.svg)](https://doi.org/10.5281/zenodo.2638300)
+
 NOTE: If the EMD Algorithm is used in any publication or presentation, the following reference must be cited:
 
 A. Zare and D. T. Anderson, "Earth Movers Distance-Based Simultaneous Comparison of Hyperspectral Endmembers and Proportions," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing , IEEE Journal of Selected Topics In Applied Earth Observations and Remote Sensing, Vol. 7, No. 6, June 2014. 
@@ -34,14 +36,11 @@ Outputs:
 
 
 
-
 Run the Simulated 2-Dimensional Data Demo: (Simulated data experiment (c) Case 3 of varying number of endmembers from the EMD paper)
 
 To Run the EMD Algorithm, with the example simulated 2-dimensional data set run the script: DEMO_RunSimulatedData.m
 
 This script will estimate EMD_tot with SED, SAM and SID with 3,4 and 5 endmembers estimated from the ICE algorithm with random initialization 
-   
-   
    
 ****************************************************************
 ****************************************************************
@@ -71,8 +70,7 @@ University of Florida, Electrical and Computer Engineering
 Email Address: azare@ufl.edu
 Created: December 2013  
 Latest Revision: May 23, 2018
-This product is Copyright (c) 2018 Alina Zare  
-All rights reserved.  
+
 
 
 
